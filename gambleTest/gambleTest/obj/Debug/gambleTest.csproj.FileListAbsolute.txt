@@ -1,0 +1,9 @@
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\bin\Debug\gambleTest.exe.config
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\bin\Debug\gambleTest.exe
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\bin\Debug\gambleTest.pdb
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\obj\Debug\gambleTest.csprojResolveAssemblyReference.cache
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\obj\Debug\gambleTest.Form1.resources
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\obj\Debug\gambleTest.Properties.Resources.resources
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\obj\Debug\gambleTest.csproj.GenerateResource.Cache
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\obj\Debug\gambleTest.exe
+c:\users\darian\documents\visual studio 2015\Projects\gambleTest\gambleTest\obj\Debug\gambleTest.pdb
